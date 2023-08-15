@@ -7,7 +7,7 @@ you can also add it into your favourite list.
 
 
 Build with :-
-HTML
-CSS
-JavaScript
-Bootstrap
+HTML,
+CSS,
+JavaScript,
+Bootstrap.
